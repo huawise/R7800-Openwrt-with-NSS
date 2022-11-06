@@ -23,7 +23,8 @@ env:
   # REPO_URL: https://github.com/ACwifidude/openwrt
   REPO_URL: https://github.com/openwrt/openwrt/tree/v22.03.2
   REPO_BRANCH: openwrt-22.03-nss-qsdk10.0
-  BRANCH: R7800-with-NSS
+  # BRANCH: R7800-with-NSS
+  BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
